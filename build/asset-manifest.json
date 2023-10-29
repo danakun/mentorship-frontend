@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eb422d29.css",
+    "main.js": "/static/js/main.46a8e7db.js",
+    "static/media/hero_vid.mp4": "/static/media/hero_vid.7697366ba4882b28dd51.mp4",
+    "static/media/winking-face.png": "/static/media/winking-face.9a0a97fa0c9b68912269.png",
+    "static/media/hurray.png": "/static/media/hurray.489d63fba66a7bff3e69.png",
+    "static/media/Group39506.jpg": "/static/media/Group39506.6d7f4dd8a54311ad2dec.jpg",
+    "static/media/Group39507.jpg": "/static/media/Group39507.483d4e0db33388ca07b5.jpg",
+    "static/media/TT-Interphases-Pro-Trial-Light.woff": "/static/media/TT-Interphases-Pro-Trial-Light.bbb64bacecf12ddeb42d.woff",
+    "static/media/TT-Interphases-Pro-Trial-DemiBold.woff": "/static/media/TT-Interphases-Pro-Trial-DemiBold.50d1ceb87bb558a20453.woff",
+    "static/media/chart.jpg": "/static/media/chart.28520f4183e5e06c8454.jpg",
+    "static/media/TT-Interphases-Pro-Trial-Condensed-Bold.woff": "/static/media/TT-Interphases-Pro-Trial-Condensed-Bold.f943a8c54d6807569698.woff",
+    "static/media/TT-Interphases-Pro-Trial-Light.woff2": "/static/media/TT-Interphases-Pro-Trial-Light.399b75d0baf6e8984f75.woff2",
+    "static/media/TT-Interphases-Pro-Trial-DemiBold.woff2": "/static/media/TT-Interphases-Pro-Trial-DemiBold.20d34f9d8689fa00b0be.woff2",
+    "static/media/TT-Interphases-Pro-Trial-Condensed-Bold.woff2": "/static/media/TT-Interphases-Pro-Trial-Condensed-Bold.b2ee7b1eaa498ec685db.woff2",
+    "static/media/TT Interphases Pro Mono Trial Regular.woff": "/static/media/TT Interphases Pro Mono Trial Regular.a8cb245f3906a2a9e92c.woff",
+    "static/media/TT Interphases Pro Mono Trial Regular.woff2": "/static/media/TT Interphases Pro Mono Trial Regular.c7e7f6fc8372a304726c.woff2",
+    "static/media/PolySansTrial-Median.woff": "/static/media/PolySansTrial-Median.e06e59298aadae33489a.woff",
+    "static/media/PolySansTrial-Bulky.woff": "/static/media/PolySansTrial-Bulky.15189bad3afea8a86a13.woff",
+    "static/media/PolySansTrial-Neutral.woff": "/static/media/PolySansTrial-Neutral.0574bdbdc8dee29a25a8.woff",
+    "static/media/PolySansTrial-Slim.woff": "/static/media/PolySansTrial-Slim.f0b34c65af3cc3a1e0fd.woff",
+    "static/media/logo.svg": "/static/media/logo.f50466deee3d8e64260820ca101a1849.svg",
+    "static/media/thumbsdown.svg": "/static/media/thumbsdown.3ce7c3500deb0e5bb3a3.svg",
+    "static/media/thumbsup.svg": "/static/media/thumbsup.f52b66d540c23a99f074.svg",
+    "static/media/PolySansTrial-Bulky.woff2": "/static/media/PolySansTrial-Bulky.f16146cd68f051dbc5aa.woff2",
+    "static/media/PolySansTrial-Median.woff2": "/static/media/PolySansTrial-Median.d8f0bfff704c7f108623.woff2",
+    "static/media/PolySansTrial-Slim.woff2": "/static/media/PolySansTrial-Slim.58571d3eb2986c4ff450.woff2",
+    "static/media/PolySansTrial-Neutral.woff2": "/static/media/PolySansTrial-Neutral.7cf72a83ce7adf448c4e.woff2",
+    "static/media/robot.svg": "/static/media/robot.88af3e2fff9fa0ba373afd9447d7b6c7.svg",
+    "index.html": "/index.html",
+    "static/media/iconError.svg": "/static/media/iconError.7587b8654b54628304623463150d0a68.svg",
+    "static/media/downArrowWhite.svg": "/static/media/downArrowWhite.f0c508e72e18b0e66659.svg",
+    "static/media/close-button.svg": "/static/media/close-button.09da049275af48ed6340.svg",
+    "static/media/iconSuccess.svg": "/static/media/iconSuccess.700ed6d9ffe28e5bf4815251cb798d8b.svg",
+    "main.eb422d29.css.map": "/static/css/main.eb422d29.css.map",
+    "main.46a8e7db.js.map": "/static/js/main.46a8e7db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb422d29.css",
+    "static/js/main.46a8e7db.js"
+  ]
+}
