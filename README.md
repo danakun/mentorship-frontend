@@ -49,4 +49,4 @@ Our Mentorship Platform leverages several technologies to deliver a seamless use
 
 - **Machine Learning:** Machine learning algorithms are employed to optimize mentor-mentee pairing, enhancing the user experience.
 
-[Link to the Project]([https://653e883a779d1a115c281cf3--stately-profiterole-606a81.netlify.app/])
+[Deployed Frontend](https://653e883a779d1a115c281cf3--stately-profiterole-606a81.netlify.app/)
