@@ -5,6 +5,7 @@
 > A mentorship platform that connects mentors and mentees for social good initiatives, powered by OpenAI, Ruby On Rails, and React.
 
 ## Table of Contents
+
 - [Overview](#overview)
 - [Description](#description)
 - [Technologies](#technologies)
